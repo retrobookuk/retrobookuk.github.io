@@ -5,8 +5,8 @@ body {
      background-attachment: fixed;
 }
 a {
-    color: #0000FF; /* Replace with your preferred hex color code */
+    color: #FFFFFF; /* Replace with your preferred hex color code */
 }
 a:hover {
-    color: #0000FF; /* Color when a user hovers over the link  */
+    color: #FFFFFF; /* Color when a user hovers over the link  */
 }
