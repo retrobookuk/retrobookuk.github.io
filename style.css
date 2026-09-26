@@ -4,22 +4,43 @@ body {
      background-size: cover;
      background-attachment: fixed;
 }
-a {
-    color: #0000FF; /* Replace with your preferred hex color code */
-}
-a:hover {
-    color: #0000FF; /* Color when a user hovers over the link  */
-}
-    /* Makes all paragraphs white */
-    p {
-      color: #ffffff;
-    }
-    
-    /* Makes elements with class "white-text" white */
-    .white-text {
-      color: white;
-    }
 
-    h1 {
-      color: #ffffff;
-    }
+p {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+a {
+  font-family: "Quicksand", sans-serif;
+  color: #8B9DC3;
+}
+
+h1 {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+h3 {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+h4 {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+small {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
+
+li {
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
+}
