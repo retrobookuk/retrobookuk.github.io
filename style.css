@@ -1,5 +1,4 @@
 body { 
-     background-color: #2b2b2b;
      background-image: url('https://retrobook.uk/assets/background/blue_background.png');
      background-size: cover;
      background-attachment: fixed;
@@ -17,7 +16,7 @@ a {
 
 a:hover {
   font-family: "Jost", sans-serif;
-  color: #3B5998; 
+  color: #314A70; 
 }
 
 h1 {
